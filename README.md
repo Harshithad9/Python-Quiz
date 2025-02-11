@@ -17,15 +17,15 @@ Welcome to the **Ultimate Computer Quiz Game**! 🏆 This is a fun and interacti
 ### Steps to Run the Game
 1. **Clone the repository** or **Download the file**.
 ```sh
-    git clone https://github.com/yourusername/quiz-game.git
+    https://github.com/Harshithad9/Python-Quiz.git
 ```
 2. **Navigate to the project directory**.
 ```sh
-    cd quiz-game
+    cd Python-Quiz
 ```
 3. **Run the script**.
 ```sh
-    python quiz_game.py
+    python Python-Quiz.py
 ```
 
 ---
