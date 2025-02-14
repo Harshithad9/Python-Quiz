@@ -1,3 +1,4 @@
+
 # simple quiz game
 # import os
 # print("---------- Welcome to Online Computer Quiz!!! -----------")
@@ -181,7 +182,8 @@ questions = {
     "A variable declared inside a method is called?": "local variable",
     "In C++, what is the index of the last element in an array?": "-1",
     "Queue data structure works on which principle?": ["fifo", "first in first out"],
-    "When a pop() operation is called on an empty queue, what is the condition called?": "underflow"
+    "When a pop() operation is called on an empty queue, what is the condition called?": "underflow",
+    "What is the output of print(2**3) in Python?" : "8"
 }
 
 # Iterate through questions
